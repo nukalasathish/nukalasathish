@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sathish Reddy Nukala and did my MSc - Mathematics with Computer Science from Osmania University.
+- 👋 Hi, I’m Sathish Reddy Nukala and I did my MSc - Mathematics with Computer Science from Osmania University.
 - 👀 I’m interested in creating new applications
 - 🌱 I’m currently learning Python
 
